@@ -26,7 +26,7 @@
 ## 🌐 Live Web Portal & App
 
 > **Live Deployment:** Experience Aether OS directly in your browser without installation:  
-> 🔗 **[Launch Aether OS on Vercel](https://specsprojects-f4a88.firebaseapp.com)**
+> 🔗 **[Launch Aether OS on Vercel](https://aetheros-kappa.vercel.app)** • **[Alternative Mirror](https://specsprojects-f4a88.firebaseapp.com)**
 
 ---
 
