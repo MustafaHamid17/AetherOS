@@ -1,0 +1,26 @@
+# Security & Credentials
+*.env
+*.env.*
+*.key
+*.pem
+*.secret
+*.token
+
+# Node & Dependencies
+node_modules/
+dist/
+build/
+.cache/
+
+# Private Source Code & Binary Stash
+src/
+private/
+backend/
+electron/
+app/
+
+# OS & Temp Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

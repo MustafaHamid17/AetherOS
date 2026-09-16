@@ -1,0 +1,18 @@
+PROPRIETARY SOFTWARE LICENSE & TERMS OF USE
+
+Copyright (c) 2026 Aether OS & Mustafa Hamid. All Rights Reserved.
+
+1. PROPRIETARY RIGHTS
+The software, documentation, multi-agent frameworks, neural execution protocols, and visual interfaces contained in or distributed through this repository ("Aether OS") are the proprietary intellectual property of the author.
+
+2. PERMITTED USE
+You are permitted to download, install, and execute official binary releases and documentation for personal evaluation, authorized development, and non-commercial workflows as specified in official release notes.
+
+3. RESTRICTIONS
+Except as expressly authorized in writing:
+- You may NOT reverse engineer, decompile, disassemble, or derive source code from any distributed binary or package.
+- You may NOT relicense, sublicense, sell, rent, or distribute modified copies of the core software engine.
+- You may NOT remove or alter any copyright notices, trademarks, or proprietary markings.
+
+4. DISCLAIMER OF WARRANTY
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
