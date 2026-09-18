@@ -3,7 +3,7 @@
 # ⚡ AETHER OS & BOX IDE ⚡
 ### *The Intelligent Multi-Agent AI Operating System & Local Box IDE*
 
-[![Release](https://img.shields.io/badge/Release-v1.3.1_Desktop_%26_Web-cyan?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MustafaHamid17/AetherOS/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.3.2_Desktop_%26_Web-cyan?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MustafaHamid17/AetherOS/releases/latest)
 [![React](https://img.shields.io/badge/React-19.2-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![Electron](https://img.shields.io/badge/Electron-43.2-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
@@ -98,13 +98,13 @@ Aether OS for Windows is distributed in two formats:
 
 | Distribution Format | Description | Architecture | Direct Download Link |
 |---|---|---|---|
-| **Windows Installer** (`.exe`) | Full NSIS setup with Desktop and Start Menu shortcuts, auto-updater support. | `x64` (Win 10/11) | [Download Installer (`Aether-OS-1.3.1-Setup.exe`)](https://github.com/MustafaHamid17/AetherOS/releases/download/v1.3.1/Aether-OS-1.3.1-Setup.exe) |
-| **Portable Executable** (`.exe`) | Standalone binary. Zero install required; run directly from USB or any folder. | `x64` (Win 10/11) | [Download Portable (`Aether-OS-1.3.1-Portable.exe`)](https://github.com/MustafaHamid17/AetherOS/releases/download/v1.3.1/Aether-OS-1.3.1-Portable.exe) |
+| **Windows Installer** (`.exe`) | Full NSIS setup with Desktop and Start Menu shortcuts, auto-updater support. | `x64` (Win 10/11) | [Download Installer (`Aether-OS-1.3.2-Setup.exe`)](https://github.com/MustafaHamid17/AetherOS/releases/download/v1.3.2/Aether-OS-1.3.2-Setup.exe) |
+| **Portable Executable** (`.exe`) | Standalone binary. Zero install required; run directly from USB or any folder. | `x64` (Win 10/11) | [Download Portable (`Aether-OS-1.3.2-Portable.exe`)](https://github.com/MustafaHamid17/AetherOS/releases/download/v1.3.2/Aether-OS-1.3.2-Portable.exe) |
 
 ### 🔐 Cryptographic Checksums (SHA-256)
 ```text
-C2857EC9F3758C96AB63AEE9E6F3C1C5C4BA50FCB6F147859090D0B884E2D46F  Aether-OS-1.3.1-Setup.exe
-32DFFEB6D7C07A6EFB307423D48CE0D9BA0DBAB6E56954EFCE964ED581EE67DE  Aether-OS-1.3.1-Portable.exe
+05226E2EDE96277E37B86AAA1B6DEE8CBAB2C173AED2FF2336A6E7B934C8234E  Aether-OS-1.3.2-Setup.exe
+162E104EF47231800A9CB4A6FE2CE194F04C87C5EAB20389DD2B46CF9D925947  Aether-OS-1.3.2-Portable.exe
 ```
 
 ---
